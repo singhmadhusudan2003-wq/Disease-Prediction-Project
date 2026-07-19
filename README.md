@@ -49,6 +49,19 @@ The workflow:
 
 ---
 
+---
+
+# Application Preview
+
+## Home Page
+
+![Home Page](screenshots/home.png)
+
+## Prediction Result
+
+![Prediction Result](screenshots/prediction.png)
+
+---
 # Features
 
 - Data preprocessing and feature scaling
