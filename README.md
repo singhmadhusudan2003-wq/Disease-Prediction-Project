@@ -316,6 +316,16 @@ After training, the project automatically generates:
 - Scaler (`models/scaler.pkl`)
 
 ---
+---
+
+# Live Demo
+
+The Heart Disease Prediction application is deployed using Streamlit Cloud.
+
+🔗 Live App:
+https://heart-disease-prediction-madhu.streamlit.app
+
+---
 
 # Future Improvements
 
